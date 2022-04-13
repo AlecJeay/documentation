@@ -102,6 +102,9 @@ That's it for this article but be sure to follow because next time we will send 
 - Move sources around the screen
 
 
+### Part 2: [OBS WebSocket using Node.js Continued](https://alecjeay.hashnode.dev/obs-websocket-using-nodejs-continued)
+
+
 
 
 
