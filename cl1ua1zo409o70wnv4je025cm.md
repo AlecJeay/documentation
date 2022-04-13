@@ -1,4 +1,4 @@
-## Getting started with the OBS WebSocket using NODE.js
+## Getting started with the OBS WebSocket using Node.js
 
 This series is a **no nonsense** guide to creating a simple Node.js application and using it to interact with the Open Broadcasting Software Websocket.
 
