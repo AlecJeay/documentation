@@ -13,8 +13,8 @@ Ill be using VS code as my IDE so assuming you have [Node.js installed](https://
 
 run ```npm init``` and enter through the initialization questions to create your blank project.
 
-Install [obs-websocket-js
-](https://github.com/obs-websocket-community-projects/obs-websocket-js) from this github reposatory using ```npm install obs-websocket-js``` 
+Install [obs-websocket-js from this github repository
+](https://github.com/obs-websocket-community-projects/obs-websocket-js)  using ```npm install obs-websocket-js``` 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1649652634697/vaktJdf4X.png)
 
 create a new file in your project directory named```app.js``` This is the main file we will be using for our project
